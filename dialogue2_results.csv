@@ -1,0 +1,389 @@
+caller,text,act_tag,task1_pred,task2_pred,task3_pred,task4_pred
+B,"What are your [ m-, + music  ] interests? /",qw,Request,sv,qw,1
+A,"{F Uh, } just about any kind of music except acid rock <static>, /",sd, Statement, o, qy, ^h
+B,<Laughter>.,x, Laughter, sd, x, 3
+A,"[ I, + I  ] don't care,",sd, Agreement, b, ng, sv
+B,"Me, too. /",aa, Statement, sv, qw, 3
+A,"for acid rock, /",+, Statement, sd, na, sd
+B,Oh. /,b, Acknowledgment, o, ng, 3
+A,"{C but, } {F uh, } I grew up with country and western, /",sd, Statement, b, sv, sv
+B,"Yeah,  /",b, Agreement, sv, sv, 3
+B,"I did, too, /",sd, Agreement, sv, sd, sv
+A,"{C but, } {F uh, } -/",%, Statement, qw, sd, 3
+B,"{C and then, } -/",%, Agreement, sd, sd, sv
+A,just about any kind of music.  /,sd, Statement, sd, sd, ^h
+A,I even like classical music. /,sd, Statement, na, sv^e, qw
+B,"Yeah,  /",b, Agreement, sd, sd^e, 3
+B,"{F uh, } I'm pretty diversified, too.  /",sd, Statement, sd, qy^g, sv
+B,"[ [ I, + I  ] don't, + I don't  ] like acid rock either.  /",sd, Statement, sd, qw, 6
+B,"[ I, + <sniffing> I  ] grew up in a small town  /",sd, Statement, qw, qy, sv
+B,"{C so, } {F uh, } [ the only, + <static> we only  ] had one radio station  /",sd, Agreement, sv, qw, 3
+B,"{C so } it was country music, /",sd, Agreement, sv, qh, sv
+A,Yeah. /,b, Agreement, sd, qy, 3
+B,"{C but then, } {F uh, } when I, -/",%, Acknowledgment, sd, qw, sv
+A,"Yeah,  /",b^r, Acknowledgment, sd, sv, 3
+A,"I grew up with Hank Snow, and (( Lefty Frizzell ))  </static> and Hank Williams and all of those old country and western songs. /",sd, Statement, b, qw, sv
+B,"</Static> {F Oh, } really.  /",b, Agreement, qy^d, hv, 6
+B,You're older than I am <laughter>. /,sd, Statement, b^m, sd, sd
+A,"<Laughter> {C But, } {F uh, } I, - /",%, Agreement, sd^e, sd, 6
+A,did you happen to see last night the special on Channel Two with James Galway? /,qy, Statement, sd, sd, sv
+B,We don't get Channel Two.  /,ng, Statement, qw, +, qw
+B,"[ My, +",sd, Agreement, sv, ad, qw
+A,Oh. /,b, Statement, sv, ad, ^h
+B,"{F uh, } our  ] cable doesn't,  /",+, Agreement, sd, qy, ^h
+B,"I wish we got that what, - /",sd, Statement, sd, qw, qw
+B,"{C but, } -/",%, Acknowledgment, h, sd, qw
+A,That is fabulous. /,sv, Statement, sd, qy, 3
+B,Was it?  /,qy, Statement, sv, na, sv
+B,"{D Well, }",sd, Acknowledgment, sd, no, 3
+A,"We, -/",%, Laughter, sd, sd, sv
+B,we don't get Channel Two. /,+, Statement, qw, sd^e, sd
+A,"Yeah,  /",ny, Laughter, sv, sd, sd
+A,"when he played DANNY BOY it just almost brought,",sd^e, Statement, sv^e, qy, 3
+B,<Laughter>.,x, Acknowledgment, sv, sd^e, sv
+A,"tears to your eyes, because he can make that flute sing. /",+, Acknowledgment, sv, sd, 3
+B,"{F Oh, } really? /",bh, Laughter, sd, na, sv
+A,"Yeah,  /",ny, Acknowledgment, sd, sd, 2
+A,"{C and, } {F uh, } it was tremendous. /",sv^e, Statement, na, sd, sv
+B,"{D Now, } [ he, + he ] is a, {F uh, } - /",%, Statement, b^m, sv, sv
+B,"actually, I did,  /",sd, Statement, sd, sd, 3
+B,"I played flute for,",sd, Acknowledgment, sd, sd, sv
+A,Yeah. /,b, Agreement, sd^m, sd, 3
+B,almost ten years  /,+, Agreement, sd, qy, sv
+B,"[ [ {C and, } + {C and, } ] + {F uh, } {C so, } ] [ [ I, + I, ] + I ] appreciate his too,",sd, Statement, b^m, sd, 3
+A,Yeah. /,b, Statement, sv, sd, sv
+B,"[ his,  + his  ] mus-, - /",+, Statement, sd, sd, 3
+B,"[ [ he, + he,  ] + he's  ] from Ireland isn't he? /",qy^g, Agreement, sd, sd, sv
+A,"Yeah,  /",ny, Statement, sd, sv, 3
+A,"uh-huh,  /",ny, Statement, sd, sv, sv
+A,"{C and } it was, {F uh, } mostly all Irish tunes, /",sd^e, Statement, qw, sv, 3
+B,"Was i-, - /",%, Acknowledgment, qy, sd, sv
+B,yeah. /,b, Statement, na, qy, 3
+A,"they had a band with him that, {F uh, } had a harpist and another flute and then a guy that played the bagpipes plus the, {F uh, } tin whistle,",sd, Statement, sd, sd, sv
+B,Yeah. /,b, Statement, ba, sv, 3
+A,"and a couple of violins and, {F uh, } drum, /",+, Statement, sd, na, sv
+B,Uh-huh. /,b, Statement, b, sd, 3
+A,"{C and } [ they, + they ] played all the Irish jigs and so forth,  /",sd, Explication, qy, qy^g, sv
+A,it was just fabulous.  /,sv, Agreement, na, qy, 3
+B,"Yeah,  /",b, Statement, sv^e, sd, sv
+B,"[ [ I, + he, ] + he  ] is really good.  /",sv, Acknowledgment, na, sd^e, 3
+B,"Yeah,  /",%, Statement, qy, sd, sv
+B,"[ [ I, + I,  ] + I  ] come from a musical background, /",sd, Agreement, sd, sd, 3
+A,Yeah. /,b, Agreement, sv, qy, sv
+B,"{C so, } {F uh, } {F uh, } I've played [ [ fl-, + flute,  ] + flute  ] and piano,  /",sd, Statement, b, sv, 3
+B,"{C so, }",sd, Statement, sv, qy, sv
+A,Yeah. /,b^r, Acknowledgment, sd, sv, ^h
+B,"[ [ I, + I,  ] + I  ] have a [ b-, + big  ] appreciation for music,",+, Agreement, qy, sd, qw
+A,Yeah. /,b^r, Agreement, qy, qw, 3
+B,up to a point.  /,+, Statement, sd^e, sd, sv
+B,"[ I, + I'm ] getting now to the age where I don't like [ the new stuff that's coming an-, +",sd, Statement, sd^t, sd, 3
+A,Yeah. /,b^r, Statement, sd, sd, sv
+B,"[ and + ] much of the new stuff that's coming ] out, /",+, Statement, sd, qw, 6
+A,Yeah. /,b^r, Explication, sd, sd, sd
+B,my husband says I'm getting old <laughter>. /,sd, Statement, b, sv, 3
+A,Yeah  /,b^r, Statement, qy, sd, sv
+A,"<laughter>.  [ [ I love, + {F uh, } I, li-,  ] + I especially like ] instrumentals. /",sd, Statement, sd, sv, sd
+B,Do you? /,bh, Statement, sv, sv, 3
+A,Yeah.  /,ny, Agreement, sd, sd^e, sv
+A,"I love to just lay back on the couch [ and, + and  ] turn a [ good, + good  ] instrumental <<volume got louder>> on and just close my eyes and listen. /",sd, Acknowledgment, sd, qy, 3
+B,"Yeah,  /",b, Statement, sd, sv, sv
+B,"[ that's, + that's ] nice to do, that is.  /",sv, Laughter, sd, sd, 3
+B,"<breathing> [ [ I've got a, + <laughter> I've got a, ] + I've got a ] two year old who's now getting, - /",sd, Statement, na, sd, sv
+B,"I'm getting well versed [ in, + in ] kiddy music <laughter>. /",sd, Statement, qy^g, sd, 6
+A,Yeah. <laughter> <<pause>>  /,b, Laughter, b, sv, sv
+A,"[ I'm, + I've ] never played an instrument in my life,  /",sd, Laughter, sv, qy, 3
+A,"I've always wanted too, /",sd, Laughter, sv, sd, sv
+B,Yeah. /,b, Statement, sd, sd^e, sd
+A,"I've always wished my parents <laughter> had forced me to learn the piano or something, /",sd, Laughter, sb, sd, sd
+B,Yeah  /,b, Laughter, h, qy, 6
+B,<laughter>.,x, Statement, sd, sd, sd
+A,"{C but, } {F uh, } -/",%, Agreement, sd, sd, 3
+B,I was one of the forced ones <laughter>. /,sd, Acknowledgment, ba^r, sd, sv
+A,"<Laughter> {C but } [ I, + I'd ] just love to be able to go to a party or something and sit down at the piano and bang out music -- /",sd, Statement, sb, sv, 3
+B,"{F Oh, } I could never do that <laughter>. /",sd, Acknowledgment, sd, sd, sv
+A,"-- {C and, } -/",%, Acknowledgment, sd, qy, 3
+B,I was never that brave  /,sd, Statement, qy, sd^e, sv
+B,"{C but, } {F uh, } <noise> <sniffing> yeah. /",%, Statement, sd, sd, 3
+A,I guess the closest I've ever come to participating in music is singing in the choir. /,sd, Agreement, sd, fw, sv
+B,"Yeah,  /",b, Acknowledgment, sd, sd, 3
+B,"{F oh, } yeah,  /",b^r, Statement, sd, qy, oq
+B,"[ [ I've, + I've done, ] + I've done  ] that at church too. /",sd, Agreement, na, x, 6
+A,Yeah. /,b, Agreement, sd, qh, sd
+B,I haven't done that in a long time. /,sd, Statement, sd^t, sd, 3
+A,Yeah. /,b^r, Statement, na, sd, sv
+B,"{C So, } let's see  /",^h, Statement, na, no, 3
+B,"(( what els-, )) .  /",^h, Statement, b^m, sd^e, sv
+B,"{D Well, } what kind of music do you not like? /",qw, Acknowledgment, nw., sd, sd
+A,"{D Well, } like I say the acid rock,  /",sd, Laughter,, qw, sd
+A,"I just do not ca-, - /",sd, Statement,, sd, od
+A,{C an } I don't care for rap music either. /,sd, Agreement,, zk, sd
+B,"{F Oh, } go-, - /",%, Laughter,, sd, sv
+B,"that's not music <laughter>, /",sv, Statement,, no, 3
+A,"Uh-huh,  /",aa, Statement,, sd^e, sv
+A,no. /,aa, Acknowledgment,, sd, 3
+B,"that is not,  /",sv, Acknowledgment,, sd, sv
+B,"I don't know what that is,  /",sd, Laughter,, sv, 3
+B,{C but } that's not music <laughter>. /,sv, Statement,, sd, sv
+A,If I can't understand the words I don't want to listen to it. /,sd, Statement,, x, sd
+B,"{D Well, } [ [ [ it's, + it's, ] + it's not, ] + it's not ] music,  /",sv, Statement,, qw, sd
+B,"[ it's just, + it's just, ] {F uh, } {F uh, } talking in a beat,  /",sv, Acknowledgment,, qy, 3
+B,"[ it is just, +",sv, Acknowledgment,, sd, sv
+A,Yeah. /,b, Laughter,, sv, 3
+B,it's  ] not exciting at all  /,+, Statement,, sd, sv
+B,"[ it doesn't, +",sv, Statement,, ad, 3
+A,Yeah. /,b^r, Statement,, ft, sv
+B,"it doesn't ] give you relaxation,  /",+, Statement,, ad, 3
+B,"you can't dance to it,  /",sv, Acknowledgment,, sv, sv
+B,you can't do anything to it <laughter>. /,sv, Statement,, sd, 3
+A,Right.  /,b, Acknowledgment,, sd, sv
+A,"{C But, }",sd, Agreement,, sd, 3
+B,Yeah. /,b, Agreement,, sd, sv
+A,"[ [ I, + {C and } I love, ] + I like  ] orchestra music too. Like the,",+, Statement,, sd, 3
+B,"D-, -/",%, Statement,, sd, sv
+A,"Boston Pops [ or, +",+, Laughter,, qy, 3
+B,Yeah. /,b, Agreement,, sd, sv
+A,or  ] anything. /,+, Statement,, sd, sd
+B,"<Breathing> Have you ever been [ to the, + [ to, + to  ] the ] Dallas Symphony? /",qy, Statement,, sd, sd
+A,Uh-huh. /,ny, Statement,, sd, 3
+B,Have you?  /,bh, Agreement,, sd, sv
+B,"Is i-, - /",%, Statement,, sd, sd
+B,"[ are, +",qy, Statement,, sv, 3
+A,Yeah. /,ny, Laughter,, na, sv
+B,are ] they good? /,+, Laughter,, sv, qy
+A,"Yeah,  /",ny, Agreement,, sd, sd
+A,they're good. /,sv^e, Laughter,, no, zw
+B,Are they?  /,bh, Statement,, qy, 3
+B,"[ [ I, + I have, ] + I have,  ]",sd, Statement,, sd, sv
+A,"{C And, } {F uh, }",sd, Acknowledgment,, qy^d, 3
+B,never been. /,+, Acknowledgment,, sd, sv
+A,"we went and saw, {F uh, } [ [ L-, + L-,  ] + LES MISERABLES  ] -- /",+, Acknowledgment,, sd, ^h
+B,"{F Oh, } really? /",bh, Statement,, sd, qw
+A,"-- {F oh, } the music in that was fantastic. /",sv, Statement,, sd, qw
+B,"[ [ I, + I've heard, ] + I've heard ] that that is a really, -/",sd, Acknowledgment,, sd, 6
+A,Yeah. /,b, Statement,, qy, 3
+B,I heard that was hard to get tickets to. /,qy^d, Acknowledgment,, sd, sv
+A,"Yeah,  /",ny, Statement,, sd, 6
+A,"[ it, + it,  ] {F uh, } - /",%, Statement,, sd, 6
+A,"I can't remember how far in advance we reserved,",sd, Statement,, sd, 6
+B,((   )) .,x, Agreement,, sd, 6
+A,tickets  /,+, Agreement,, qy^d, 3
+A,"{C but } it was [ out, + {D you know, } out  ] at the State Fair Music Hall  /",sd, Statement,, qy, 3
+A,"{C and, } {F uh } --",sv, Laughter,, sd, 3
+B,Yeah.  /,b, Acknowledgment,, sd^e, 3
+B,"Yeah,  /",b^r, Statement,, sd, 6
+B,"that was a real, -/",%, Statement,, sd, 6
+A,-- it was well worth the price. /,+, Statement,, sd, 3
+B,Was it? /,bh, Agreement,, sv, sv
+A,"Yeah, /",ny, Statement.,, sd, qw
+B,"[ I, + I  ] bet it was, /",ba,,, qy, ^h
+A,Yeah. /,b^r,,, sd, 3
+B,"[ I, + I  ] really bet it was <sniffing>.  /",ba^r,,, no, sv
+B,"Is that the only, {F uh, } musical, - /",qy,,, sv, 3
+B,do you go see a lot of musicals? /,qy,,, sd, sv
+A,"[ Just, + just  ] ever so often --",sd,,, sd, 3
+B,Yeah. /,b,,, sd, sv
+A,"-- {D you know, } [ a real, + a real  ] good one like that one  /",+,,, sd, sd
+A,"{C and, } -/",%,,, sd, ^h
+B,"[ [ That, + that  ] would be, + that would be  ] nice <laughter>. /",sv,,, qy, sd
+A,"I went and saw, {F uh, } I think it was, {F uh, } SUGAR BABIES,  /",sd,,,, 3
+A,"that was good,  /",sv,,,, sv
+A,that had good music in it. /,sv,,,, sv
+B,Was it?  /,bh,,,, sd
+B,"[ How, + how, ] - /",%,,,, ^h
+B,"[ I can't, + I don't ] know what that's about. /",sd,,,, wz
+A,"{F Uh, } that was the one with Mickey Rooney  /",sd,,,, 3
+A,"{C and, } {F uh, } {F oh, } what's that [ real, + {F oh, } not real ] old, {A my wife she is old too, }",qw,,,, sv
+B,<Laughter>.,x,,,, 3
+A,"dancer, {F uh, }  /",+,,,, sv
+A,I can't think of her name.  /,sd,,,, sd
+A,"I got it right on the tip of my tongue and can't say it, Helen something. /",sd,,,, 3
+B,"{F Uh, } {F uh, } {F uh, } [ I think I know who you're ta-, + {F oh, } I know who you're talking  ] about, /",sd,,,, sv
+A,"real long legs,",sd,,,, 3
+B,"she's got black hair, /",sd,,,, sv
+A,and dark hair. /,+,,,, sd
+B,"Yeah,  /",b,,,, 6
+B,"okay,  /",b,,,, sv
+B,I know who <laughter> your talking about.  /,sd,,,, 3
+B,I can't think ever her name either. /,sd,,,, qn
+A,I can't think of it. /,sd,,,, 6
+B,"Yeah,  /",b,,,, sd
+B,"[ [ that wa-, + that was,  ] + that was,  ] - /",%,,,, sd
+B,"I remember that being, {F uh, } here a few years ago. /",sd,,,, 3
+A,"Yeah, /",b,,,, 3
+B,<Sniffing>.,x,,,, 3
+A,"{C but, } {F uh, } -/",%,,,, 6
+B,"{F Oh, } {F oh, } the last country music, - /",sd,,,, sv
+B,"[ my, + my  ] parents still, {F uh, } really like  country,",sd,,,, 3
+A,Yeah. /,b,,,, sv
+B,music  /,+,,,, qw
+B,"{C and } [ [ they, + they  like, ] + {F uh, } they like  ] the Oak Ridge Boys and the Statler Brothers, /",sd,,,, 3
+A,"{F Oh, } yeah,  /",b,,,, sv
+A,yeah. /,b^r,,,, 6
+B,"[ {C and, } + {C and, } ] {F uh, } {D well, } [ [ [ my, + my,  ] + my,  ] +",sd,,,, sv
+A,The Blackwoods. /,^2,,,, 3
+B,"my  ] parents, - /",+,,,, sv
+B,"yeah,  /",aa,,,, 3
+B,"my husband likes, {F uh, } country music real well  /",sd,,,, sv
+B,"{C and }  [ he, + he  ] likes some of the new groups like Shenandoah, /",sd,,,, ca
+A,Yeah. /,b,,,, 3
+B,"{C and, } yeah,  /",b^m,,,, sv
+B,he really likes Shenandoah. /,sd,,,, sd
+A,Alabama. /,^2,,,, sv
+B,"Yeah,  /",aa,,,, ^h
+B,"yeah,  /",aa^r,,,, qw
+B,"{D well, } yeah,  /",aa^r,,,, ta
+B,"Alabama, /",sd^m,,,, a
+A,"{F Uh, } /",%,,,, 3
+B,"[ I think, + I think  ] they're a bit over exposed <laughter>. /",sv,,,, sv
+A,Yeah  /,b,,,, sd
+A,<laughter>.,x,,,, 6
+B,"I [ get kind,",sv,,,, sv
+A,((   )) .,x,,,, 3
+B,"of tire-, + get [ tir-, + tired  ]  ] of every other song being Alabama on the,",+,,,, sd
+A,"Yeah, /",b,,,, 3
+B,radio. /,+,,,, sv
+A,"either Alabama or Hank Williams, Junior. /",^2,,,, 3
+B,"{F Oh, } [ I, + I've  ] never cared for Hank,",sd,,,, sv
+A,"I never have either, /",aa,,,, 3
+B,"Williams, Junior. /",+,,,, sv
+A,"{C and } I never have figured out how he won, {F uh, } entertainer of the year for about,",sd,,,, 3
+B,Oh <laughter>. /,b,,,, sv
+A,three or four years in a row. /,+,,,, 3
+B,"{F Oh, } [ we, + we ] watch those award shows too,  /",sd,,,, sv
+B,we enjoy watching the country and the Grammies and stuff  /,sd,,,, 3
+B,"{C but } [ I just, + I just ] don't care for him, /",sd,,,, sv
+A,Yeah. /,b,,,, 3
+B,I just never have.  /,sd,,,, sv
+B,"I don't, -/",%,,,, sd
+A,"I guess probably my favorite all time country and western song or singer is, {F uh, } probably Eddy Arnold. /",sd,,,, ^h
+B,"[ Is, + is  ] it? /",bh,,,, 3
+A,Uh-huh. /,ny,,,, sv
+B,"Okay,  /",bk,,,, 3
+B,"[ I, + I ] think, [ I, + I ] know who that is,  /",sv,,,, sv
+B,uh-huh.  /,bk,,,, sv
+B,"I think my parents [ have + <sniffing> have, ] {F uh, } some of his records. /",sv,,,, sd
+A,"{C But, } {F uh, }",sd,,,, 3
+B,Yeah. /,b,,,, sv
+A,"[ [ I got a, + I've [ got about a hundred and, + {E or } had [ a, + {F uh, } some, ] ] ] + {F uh, } {A I sold some of them, } I had about a hundred and ] fifty old seventy-eight R P M records of country and western,",+,,,, sv
+B,Wow. /,ba,,,, 3
+A,"songs,  /",+,,,, sv
+A,"Smiley Burnette, I don't know if you were old enough to remember [ him + <music> him.  ] /",qy^d,,,, 3
+B,I've heard the name. /,sd,,,, sv
+A,"He [ was, + {F uh, } played ] in the old western movies.  /",sd,,,, 3
+A,He was the sidekick of Gene Autry I believe -- /,sv,,,, sv
+B,{F Huh. } /,%,,,, 3
+A,"-- {C or } they, - /",%,,,, sv
+A,"I think his name [ in, + in ] the movie was Froggy  /",sv,,,, 3
+A,"{C and, } -/",%,,,, sv
+B,"[ I've, + I've  ] never seen a Gene Autry movie, /",sd,,,, 3
+A,"had a real raspy voice, /",sd,,,, sv
+B,{F Huh. } /,%,,,, 3
+A,"{C and, } {F uh, } -/",%,,,, sv
+B,"No,  /",o,,,, sv
+B,I never have <sniffing>. /,sd,,,, 3
+A,"some of those old ones, of course, Bob Wills, Miss Texas Playboys --",sd,,,, sv
+B,Yeah. /,b,,,, 3
+A,"-- Ernest Tubbs and Red Foley an, -/",+,,,, sv
+B,"Yeah,  /",b^r,,,, 3
+B,those go back quite a way <laughter>. /,sd,,,, sv
+A,Yeah.  /,b,,,, sv
+A,"I took them up here to Collectors [ Rector-, + Records  ] and was able to get a little money for them -- /",sd,,,, sv
+B,Yeah. /,b,,,, sd
+A,"-- {C but, } {F uh, }",sd,,,, 3
+B,"It's hard to, -/",%,,,, sv
+A,"my [ m-, + mother  ] and dad use to, {F uh, } own a restaurant, /",+,,,, 3
+B,"{F Oh, } yeah. /",b,,,, sv
+A,"{C and } [ he had, + {F uh, } they had  ] a, {F uh, } nickelodeon, of course, in the restaurant, /",sd,,,, 3
+B,Yeah. /,b^r,,,, sv
+A,"{C and } when they would come and change the records [ the guys would, + the guy would ] give her the old records -- /",sd,,,, 3
+B,"{D Well, } that wou-, - /",%,,,, sv
+B,that's neat. /,ba,,,, 3
+A,"-- {C so, } that's where I got my, -/",sd,,,, sv
+B,"that would be [ gr-, + great  ] if they weren't too worn out,",sv,,,, 3
+A,Yeah. /,b,,,, sv
+B,at the time. /,+,,,, 3
+A,"Of course, there's not a whole lot of market for seventy-eight R P M records. /",sv,,,, sv
+B,Is there not?  /,qy,,,, sv
+B,"[ [ You, + you'd, ] + {D well } you'd  ] think there would be. /",sv,,,, 5
+A,"{D Well, } the problem is most of the record players now will not play them because,",sv,,,, 6
+B,"{D Well, } that's true. /",aa,,,, sd
+A,"you have to have [ that needle, + that, {F uh, } particular kind of needle  ] -- /",+,,,, sd
+B,"{F Oh, } yeah. /",b,,,, sv
+A,"-- {C and, } {F uh, } they,",sd,,,, sv
+B,<Breathing>.,x,,,, 6
+A,"just won't play on a modern day, {F uh } --",+,,,, sd
+B,"{D Well, } that's a shame -- /",ba,,,, 6
+A,-- phonograph. /,+,,,, tv.
+B,"-- <Sniffing> {C because } [ [ I, + I,  ] + we  ] go to antique stores a lot  /",sd,,,,
+B,"{C and } you see seventy-eights,",sd,,,,
+A,Yeah. /,b,,,,
+B,"[ a, + a  ] lot [ [ at, + at ] the stores, + [ [ a-, + a-,  ] + at  ] record stores,  ]  /",+,,,,
+B,"you'd,",sv,,,,
+A,Yeah. /,b^r,,,,
+B,"think there'd be a market for, - /",+,,,,
+B,"[ I'm, + I'm  ] sure you could find old players for them  /",sv,,,,
+B,"{C but } that would cost a fortune,",sv,,,,
+A,Yeah. /,b^r,,,,
+B,if you could find them that worked <laughter>. /,+,,,,
+A,Yeah. /,b^r,,,,
+B,Oh. /,b,,,,
+A,"Of course, they, {D you know, } just don't have the quality of records nowadays either because,",sv,,,,
+B,No. /,aa,,,,
+A,"[ you, + you  ] get that scratchy sound. /",+,,,,
+B,Uh-huh.  /,b,,,,
+B,"{D Well, } those things were big and thick weren't they? /",qy^g,,,,
+A,"Yeah,  /",ny,,,,
+A,yeah. /,ny^r,,,,
+B,You could kill somebody with them <laughter>. /,sv,,,,
+A,"Yeah,  /",b,,,,
+A,"th-, - /",%,,,,
+A,warped real easy. /,sd,,,,
+B,"{C And } the ones you buy, - /",sv,,,,
+B,go out and buy one now  /,ad,,,,
+B,"{C and } they're just so thin and,",sv,,,,
+A,Yeah. /,b,,,,
+B,flimsy  /,+,,,,
+B,"{C and } [ they just, + they're  ] not meant to last,",sv,,,,
+A,Yeah. /,b,,,,
+B,"at all,  /",+,,,,
+B,"[ ne-, + neither  ] are tapes.  /",sv,,,,
+B,"[ [ I, + I  ] bu-, + we buy  ] cassette tapes, /",sd,,,,
+A,Yeah. /,b,,,,
+B,"{C and } machines will eat them, /",sd,,,,
+A,Yeah. /,b^r,,,,
+B,"{C and so, } the best bet, [ [ any, + anymo-, ] + these days ] are compact disk,  /",sv,,,,
+B,those things are practically indestructible <laughter>. /,sv,,,,
+A,"{C But, }  [ I, + I  ] guess, {D you know, } the old country and western music you, - /",sd,,,,
+A,"back then when I was a kid, there wasn't that much T V, /",sd,,,,
+B,"{F Oh, } no. /",b,,,,
+A,"{C so } that's all you had to listen to was the,",sd,,,,
+B,Radio. /,^2,,,,
+A,"radio,  /",+,,,,
+A,"{C and, } {F uh, } -/",%,,,,
+B,"<Sniffing> [ Tha-, + that's ] [ just what, + just what ] you had,  /",sd,,,,
+B,"we-, - /",%,,,,
+B,"{C plus, } -/",%,,,,
+A,Yeah. /,b,,,,
+B,"I think it was better back then to,  /",sv,,,,
+B,"[ th-, + there's ] too much T V now -- /",sv,,,,
+A,Yeah. /,b^r,,,,
+B,"-- {C and } the radio is, {D you know, } more exciting,",sv,,,,
+A,Yeah. /,b^r,,,,
+B,"really, [ than, + than  ] television,  /",+,,,,
+B,"kep-, - /",%,,,,
+B,your imagination -- -/,%,,,,
+A,Yeah. /,b^r,,,,
+B,"-- [ i-, + i-, ] kept - /",%,,,,
+B,"{C and } yo-, - /",%,,,,
+B,it just didn't vegetate your mind like television does <laughter>. /,sv,,,,
+A,"Yeah,  /",b^r,,,,
+A,I remember mother and dad always turned on the Grand Ole Opera. /,sd,,,,
+B,"{F Oh, } yeah. /",b,,,,
+A,Yeah. /,b^m,,,,
+B,<Sniffing> Was it on the radio every week? /,qy,,,,
+A,Yeah. /,ny,,,,
+B,"[ [ Wha-, + what day, ] + what day ] was that on,  /",qw,,,,
+B,"[ do you, + [ ha-, + can ] you ] recall. /",qy,,,,
+A,"{F Uh, } {F uh, } seems like it was on a Friday, /",sv,,,,
+B,{F Uh. } /,%,,,,
+A,"Friday or, -/",%,,,,

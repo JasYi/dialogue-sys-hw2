@@ -1,0 +1,510 @@
+caller,text,act_tag,task1_pred,task2_pred,task3_pred,task4_pred
+A,"Okay, {F uh, }  /",o,Okay,o,qy,^h
+A,"could you tell me what you think contributes most to, {F uh, } air pollution? /",qw," 
+Question", qw, no, qw
+B,"{D Well, } it's hard to say.  /",^h," 
+Acknowledgment", sd, sv, sv
+B,"{E I mean, } while it's certainly the case that things like automobiles and factories, {F uh, } pollute a lot, {F uh, } if you look at how much pollution is say kicked up by an active volcano, {F uh, } it's certainly less than clear that anything man can do in this sort of scale of things has much effect at all.  /",sv," 
+Statement", ^h, qy, sv
+B,What do you think? /,qo," 
+Question", qy, qw, qo
+A,"{F Um, } {D well, } you talked about, {F uh, } volcanos.  /",sd," 
+Statement", sd, qw, ^h
+A,"I'm not sure how many active volcanos there are now, [ and, + and ] what the amount of material that they do, {F uh, } put into the atmosphere.  /",sd," 
+Statement", sd^m, sd, sv
+A,"I think probably the greatest cause is, {F uh, } vehicles,",sv," 
+Acknowledgment", sv, qw, sv
+B,Uh-huh. /,b," 
+Statement", sd, sd^e, qw
+A,especially around cities.  /,+," 
+Question", qy, sv, sv
+A,"{F Um, } {F uh, } do you live right in the city itself? /",qy," 
+Statement", sd^e, sv, ^h
+B,"No,  /",nn," 
+Statement", b, sv, sv
+B,"I'm more out in the suburbs,  /",sd^e," 
+Acknowledgment", +, sd, sv
+B,{C but } I certainly work near a city. /,sd," 
+Statement", nq, qy, sv
+A,"Okay,  /",bk," 
+Question", qh, sd, sv
+A,"{C so } [ ca-, +",qy," 
+Statement", sd^m, sv, sv
+B,How about you? /,qo," 
+Statement", sv, sd, sv
+A,"Can ] you notice, - /",+," 
+Statement", sd^m, sd, sv
+A,"{D well } [ it's, + it's,  ] - /",%," 
+Statement", bk, sd, sv
+A,I live in a rural area. /,sd," 
+Statement", +, sd, sv
+B,Uh-huh. /,b," 
+Statement", qy, sd, sv
+A,"It's mainly farms and, {F uh, } no heavy industry.  /",sd," 
+Statement", no, sd, ^h
+A,"Attleboro, itself, - /",sd," 
+Statement", qw, sv, sv
+A,I live in Rhode Island. /,sd," 
+Statement", qw, n, sv
+B,"{F Oh, } I see. /",b," 
+Statement", qy^g, sv, sv
+A,"{C And, } it's in the north,  /",sd," 
+Statement", sd^t, sd, sv
+A,"I live up in the, {F uh, } northeast corner  /",sd," 
+Acknowledgment", na, sd, sv
+A,"{C and } Attleboro sits in just over the line,",sd," 
+Statement", sd^m, sd, sv
+B,Uh-huh. /,b," 
+Statement", sd, sd, sv
+A,"where T I's plant is,  /",+," 
+Statement", sd^e, sv, sv
+A,{C but } there isn't a lot of heavy industry.  /,sd," 
+Statement", sd, sd, sv
+A,There's the freeways  /,sd," 
+Statement", qy^d, sv, sv
+A,"{C and } we get an occasional, - /",sd," 
+Acknowledgment", qh, xx, sv
+A,"it depends which way the wind's blowing from Boston, cause we're {D like } forty miles south of Boston,  /",sd," 
+Statement", ba^r, ng, sv
+A,{C so } we'll pick up that.  /,sd," 
+Statement", sv, qy^d, sv
+A,"{C And, } {F uh, } I've noticed over the past say, maybe five or six years, {F uh, } - /",sd," 
+Statement", sd^m, qy, sv
+A,we live about twenty miles away from the state airport  /,sd," 
+Statement", sd^e, sd, sv
+A,"{C and } I notice that the fly patterns now of the jets are getting bigger,  /",sd," 
+Statement", sd, qw, qo
+A,"they're swinging wider so that now they are coming [ over, + over ] our homes. /",sd," 
+Statement", \, sd, sv
+B,Uh-huh. /,b," 
+Question", qh, qw, sv
+A,"{C And, } it seems like, {F uh, } we're catching all that residue.  /",sv," 
+Statement", qy, sv, sv
+A,I'm not sure if it's kerosene or what that's dropping.  /,sd," 
+Acknowledgment", o, sd^e, sv
+A,"{C But, } other than that, {D you know, } we don't have [ the, + {A unless we're catching it from the midwest, } the ] emissions.",sd," 
+Statement", qw, sd, sv
+B,Yeah. /,b," 
+Statement", sd, sd, sv
+A,{D You know } from the power plants.  {F Um. } /,+," 
+Statement", sd^t, sd, sv
+B,You mean {D like } from the coal. /,bf," 
+Statement", qh, sd, sv
+A,"Yeah,  /",ny," 
+Statement", sd, sd, sv
+A,"yeah,  /",ny^r," 
+Acknowledgment", br, sv^e, sv
+A,"we generate, - /",sd^e," 
+Statement", qy, sd^e, qw
+A,"one of [ our, + our  ] biggest electrical plants in Rhode Island uses coal to, {F uh, }",sd," 
+Acknowledgment", na, sv, sv
+B,"{F Um, } /",%," 
+Question", sd^m, qa, sv
+A,generate electricity.  /,+," 
+Statement", na, qy, sv
+A,"{F Um, } there doesn't seem to be much emission from them,  /",sv," 
+Statement", ba, qy, sv
+A,{C but } I'm not sure about the rest of the country. /,sd," 
+Statement", sv, sd, sv
+B,"Yeah,  /",b," 
+Statement", sd, qy^d, sv
+B,I notice locally a major problem is Kodak.  /,sv," 
+Statement", sv, sv, sv
+B,"{F Um, } it's interesting  /",sv," 
+Acknowledgment", qy, sv, sv
+B,"{C because } in order to, {F uh, } keep with the E P A standards [ which, + which  ] tend to be visible, {F uh, } what's coming out of your smokestack, they do all their emissions at night.  /",sd," 
+Statement", sd, sv, sv
+B,"{F Uh, } {C so } people get up, -/",sd," 
+Acknowledgment", sv, sd, sv
+A,"Okay,  /",b," 
+Acknowledgment", ba^r, qy, qw
+A,"{D well, } is that right? <laughter>. /",bh," 
+Acknowledgment", qy, sd^e, ^h
+B,"Yeah,  /",ny," 
+Acknowledgment", sd, sv, qw
+B,people get up in the morning in that neighborhood  /,sd^e," 
+Acknowledgment", sd^m, qy, sv
+B,"{C and } they've got this black ash on their cars,",sd," 
+Acknowledgment", sd^t, sv, sv
+A,<Laughter>.,x," 
+Acknowledgment", sd^m, sv, sv
+B,"which, {D you know, } seems to be, -/",+," 
+Statement", na, sd, sv
+A,"Yeah,  /",b," 
+Statement", ba, sd, sv
+A,"surprise, surprise. /",ba," 
+Acknowledgment", ba^r, sd, sv
+B,"Yeah,  /",b," 
+Statement", sd, sd, sv
+B,"{E I mean, } I really think that if the E P A had anything on the ball they'd go in there with a few phosphorous grenades, light up the sky, photograph the emissions at that point, and, {F uh, } {D you know, } -/",sv," 
+Statement", sv, sv, sv
+A,Yeah.  /,b," 
+Statement", qy, sv, sv
+A,"[ There, + there ] must be, {F uh, } {F uh, } [ some of the, + some of the, ] {F uh, } larger plants [ up, + {F uh, } up ] around one hundred twenty-eight. /",sv," 
+Statement", sd, sd^e, sv
+B,Uh-huh. /,b," 
+Statement", sv, sv, sv
+A,"{F Um, } we've got reports that, {F uh, } - /",sd," 
+Acknowledgment", qy^d, sd, sv
+A,"during the night seems like they'd blow off [ their, + their ] stacks from, {F uh, }",sd," 
+Acknowledgment", %, sv, sv
+B,Right. /,b," 
+Acknowledgment",, sv, sv
+A,"the warehouses, for powerhouses, /",+," 
+Statement",, sd, sv
+B,Uh-huh. /,b," 
+Acknowledgment",, sd, sv
+A,"{C and, } they do that at night too, because,",sd," 
+Acknowledgment",, sv, sv
+B,Right. /,b," 
+Statement",, sd, sv
+A,"employees been complaining that the cars have been pitted, and, {D you know, } spots all over them. /",+," 
+Acknowledgment",, sd, sv
+B,"Yeah,  /",b," 
+Question",, sv, ^h
+B,yeah. /,b^r," 
+Acknowledgment",, sd, qw
+A,"{C So, } you're right,  /",sd," 
+Statement",, qy, sv
+A,"they could do something [ [ a-. + about,  ] + about  ] that, I guess. /",sv," 
+Statement",, sd, sv
+B,Yeah.  /,aa," 
+Acknowledgment",, sd, sv
+B,That seems a little ridiculous. /,sv," 
+Statement",, sd, sv
+A,"How are [ your, + {F uh, } your  ] lakes,  /",qo," 
+Acknowledgment",, sd, sv
+A,"{C and, } {F uh, } -/",%," 
+Statement",, sv^d, sv
+B,{F Oh } they've been getting cleaner. /,sd," 
+Statement",, sd^e, sv
+A,They have? /,qy^d," 
+Statement",, sv^h, sv
+B,Sure.  /,na," 
+Statement",, sd, sv
+B,"{C But, } {F um, } yeah,  /",%," 
+Statement",, sv, sv
+B,"I'm not sure how much the water pollution [ is, + is ] directly related to the air pollution, other than acid rain,  /",sd," 
+Acknowledgment",, sd, sv
+B,"yeah, /",%," 
+Acknowledgment",, sd, sv
+A,"Acid rain,  /",b^m," 
+Statement",, sv^e, sv
+A,"yeah,  /",b," 
+Acknowledgment",, sv^e, sv
+A,"[ that's, + that's  ] what I was, {F uh, } -/",sd," 
+Statement",, sd^e, sv
+B,"{E I mean } the stuff I've read recently in Technology Review basically indicates that acid rain may be a little bit, {F uh, } overstated.  That a lot of the die off they've seen in forests may not really be due to acid rain at all.  /",sd," 
+Statement",, sv, sv
+B,"{F Um, } ye-, - /",%," 
+Statement",, no, sv
+B,I'm not an expert. /,h," 
+Question",, sv, sv
+A,"Yeah,  /",aa," 
+Question",, sv, ^h
+A,no.  /,aa," 
+Statement",, sv, sv
+A,"Didn't they just have an article, {F oh, } on, {F uh, } - /",qy," 
+Statement",, qy, sv
+A,they were dumping lime. /,sd," 
+Acknowledgment",, qh, sv
+B,Up here? /,b," 
+Statement",, sv, sv
+A,"[ Up, + upstate  ] New York somewhere,",sd," 
+Statement",, sv, sv
+B,I haven't read that. /,sd," 
+Statement",, sd, sv
+A,"over huge areas, /",+," 
+Statement",, sv, sv
+B,{F Oh } yeah. /,b," 
+Statement",, ad, sv
+A,"{C and } they thought that was more beneficial because, {D you know } [ [ it, + it, ] + some of it ] does soak in  /",sd," 
+Acknowledgment",, sd, sv
+A,"{C and } some of it runs off right away [ into the, + in to the ] streams and rivers  /",sd," 
+Statement",, sd, sv
+A,{C and } some of the fish were supposedly making a comeback. /,sd," 
+Statement",, sv, sv
+B,Uh-huh. /,b," 
+Acknowledgment",, sv, sv
+A,I can't remember where - /,sd," 
+Statement",, sd, sv
+A,"[ I, +  I  ] read that recently somewhere,  /",sd," 
+Statement",, sv^e, sv
+A,{C and } I can't remember where. /,sd," 
+Statement",, sd, sv
+B,"Yeah,  /",b," 
+Statement",, sd, sv
+B,"that's interesti-, /",ba," 
+Statement",, sd, sv
+A,"{C But } [ I, + I ] thought it was up there.  /",sv," 
+Statement",, sd, sv
+A,"{C So, } that's interesting because New Hampshire,",sv," 
+Statement",, sv^m, sv
+B,Uh-huh. /,b," 
+Statement",, sd, sv
+A,"and parts of Vermont, {F um, } they showed pictures [ of, + of ] extensive tree damage that they attributed to acid rain. /",+," 
+Statement",, sd, sv
+B,{F Um. } /,%," 
+Statement",, sv, sv
+A,"{F Um, } you kind of think it's something else then? /",qy," 
+Statement",, sd, sv
+B,"{D Well, } that's what the environmentalists were claiming in this article.  /",nd," 
+Statement",, sd, sv
+B,"{C So } that, -/",%," 
+Statement",, sv, sv
+A,"{F Oh, } [ they didn't say, + they didn't say  ] what though,  /",bf," 
+Statement",, sd, sv
+A,"they just said they thought it was, -/",""""," 
+Statement",, sv, sv
+B,"They didn't say what,  /",na," 
+Acknowledgment",, sd, sv
+B,"they just said they thought acid rain's contribution may be less than was previously suspected.  {F Um, } that it may be other natural things at work.  {F Um, } /",sd," 
+Acknowledgment",, sd, sv
+A,"{F Uh, } natural disease, /",bf," 
+Statement",, sv, qw
+B,"Yeah,  /",aa," 
+Statement",, sv, ^h
+B,"{C so } [ it's, + it's  ] less than clear.  /",sv," 
+Statement",, sd, sv
+B,"Like I said, I don't remember the article that well. /",sd," 
+Statement",, sd, sv
+A,"Yeah,  /",b," 
+Statement",, sd, sv
+A,yeah. /,b^r," 
+Statement",, sd, sv
+B,"{C But, } {F um, } I don't know,  /",h," 
+Acknowledgment",, sd, sv
+B,"{E I mean, } what do you think we can, {F uh, } I guess as individuals or as a group, do about, {F uh, } air pollution? <<pause>>. /",qw," 
+Acknowledgment",, sd, sv
+A,"{F Uh, } we can demand, {F uh, } more efficient automobiles for one thing.  /",sv," 
+Acknowledgment",, sv, sv
+A,"I still think [ that's, + that's,  ] {F uh, } one of our major causes of pollutants. /",sv," 
+Statement",, sd, sv
+B,Uh-huh. /,b," 
+Statement",, sd, sv
+A,"{F Uh, } how we go about that, [ it's + {F uh, } {F uh, } it's ] a little bit difficult. /",sv," 
+Statement",, sd, sv
+B,"I think it's up to individuals too, to ask automakers [ for, +",sv," 
+Statement",, sd, sv
+A,"Yeah, /",b," 
+Acknowledgment",, sd, sv
+B,for ] less pollutant vehicles. /,+," 
+Acknowledgment",, sd, sv
+A,"Yeah,  /",b^r," 
+Acknowledgment",, sd, sv
+A,"[ [ you ne-, + yo-, ne-, ] + I think you need ] [ a, + a ] vehicle something like, {F uh, } Ralph Nader, Nader's Raiders, [ or, +",sv," 
+Acknowledgment",, sd, sv
+B,Yeah. /,b," 
+Acknowledgment",, sd, sv
+A,"[ where, + ] {F uh, } or,  ] {F uh, } {F uh, } A A R P, which has a lot of members.",+," 
+Statement",, sd, sv
+B,Uh-huh. /,b," 
+Statement",, sd^e, sv
+A,"{F Uh, } if you can get those types of groups. /",+," 
+Statement",, sv, sv
+B,Do you really think that new vehicles though is a big problem.  /,qy," 
+Statement",, sv, sv
+B,"{E I mean, } I remember reading an article that said {D like, } it's, {F uh, } the older polluters,  /",sd," 
+Acknowledgment",, sv, sv
+B,"[ the, + the ] twelve and fifteen year old cars, {D you know, } contribute {D like } ninety percent,",sd," 
+Statement",, ad, sv
+A,"Yeah, /",b," 
+Statement",, sd^e, ^h
+B,of the automobile pollution  /,+," 
+Acknowledgment",, sv, sv
+B,"{C and } the new cars [ it's hardly + is, hardly ] anything. /",sv," 
+Acknowledgment",, sv, sv
+A,"Yeah,  /",aa," 
+Statement",, sv, sv
+A,"they're better,  /",sv," 
+Statement",, sv, sv
+A,{C but } how about all the trucks and buses that are out there.  /,qh," 
+Statement",, sv, sv
+A,"{F Uh, } when was the last time you saw a truck that didn't belch, smoke, or, {F uh, } -/",qw," 
+Statement",, sd, sv
+B,"Yeah,  /",b," 
+Acknowledgment",, sv, sv
+B,{C but } doesn't that just mean they're out of tune. /,qy," 
+Statement",, sv, sv
+A,"{F Uh, } I'm not really sure.  /",no," 
+Statement",, sv, sv
+A,"You think [ [ that, + that, ] + that ] [ the, + {F uh, } the ] trucking [ indus-, + industry ] is that, {F uh, } incompetent, that they wouldn't, {D you know, } - /",qy^d," 
+Statement",, sv, sv
+A,"fuel [ is, + is ] one of their biggest costs. /",sd," 
+Statement",, sv, sv
+B,Right. /,b," 
+Statement",, sv, sv
+A,"{C So, } you would, -/",%," 
+Acknowledgment",, qy^d, sv
+B,{C But } diesel engines. /,%," 
+Authorization",, sd, sv
+A,"Yeah,  /",b," 
+Statement",, sd, sv
+A,diesel engines. /,sd^m," 
+Statement",, sd, sv
+B,"[ [ It, + {D you know, } it's, ] + it, ] - /",%," 
+Statement",, sd, sv
+B,"{E I mean, } they do generate a lot of soot  /",sv," 
+Acknowledgment",, sd, sv
+B,"{C but } [ that + at least, that ] kind of particulate comes out of the air pretty quickly. /",sv," 
+Statement",, sv, sv
+A,Yeah.  /,b," 
+Statement",, sv, sv
+A,Yeah.  /,b^r," 
+Acknowledgment",, sv, sv
+A,"We could also, {F uh, } push for legislation for, {F uh, } rapid transit systems.  /",sd," 
+Acknowledgment",, sd, sv
+A,This country seems to be a little behind on that. /,sv," 
+Acknowledgment",, sd, sv
+B,Yeah.  /,b," 
+Statement",, sv, sv
+B,On the other hand most people don't use rapid transit because it's so inconvenient. /,sv," 
+Statement",, sv, sv
+A,"{F Um, } yeah,  /",b," 
+Statement",, sv, sv
+A,"{C but } only because we got used to, {F uh, } single person, single car,",sv," 
+Acknowledgment",, sd, sv
+B,Uh-huh. /,b," 
+Statement",, sv, sv
+A,driving.  /,+," 
+Statement",, sv, sv
+A,A lot of people don't even like to carpool. /,sv," 
+Statement",, sd, sv
+B,Uh-huh. /,b^r," 
+Statement",, sv, sv
+A,{C But } we could that.  /,sd," 
+Question",,, sv
+A,"That'll help,",sv," 
+Statement",,, sv
+B,Uh-huh. /,b^r," 
+Statement",,, sv
+A,"[ pollution, + air pollution, ]  /",+," 
+Statement",,, sv
+A,"The, {F uh, } United States and Canada [ [ are I guess, + is, ] + is, ] going into, {F uh, } some types of agreements to limit, {F uh, } what's being given out by power plants, /",sd," 
+Acknowledgment",,, sv
+B,Uh-huh. /,b^r," 
+Statement",,, sv
+A,"I guess Canada's quite concerned that we're sending a lot of our stuff up there, /",sd," 
+Acknowledgment",,, sv
+B,"Yeah,  /",b," 
+Statement",,, sv
+B,sure. /,b," 
+Statement",,, sv
+A,{C So } that's helping. /,sv," 
+Statement",,, sv
+B,"{D Well, } what do you think about {D like } a device, a meter right on a tail pipe  /",qw," 
+Acknowledgment",,, sv
+B,{C and } you pay the tax based on how much you polluted? /,""""," 
+Statement",,, sv
+A,{D Now } that's an idea.  /,ba," 
+Statement",,, sv
+A,"don't say that too loud though because, {F uh, } every city and town will have a meter on your <laughter> tail pipe [ generating + # generating ] revenue, # /",ad," 
+Statement",,, sv
+B,"# {D Well, } it just means if you don't pollute, {D right, } or you pollute very little # you don't have to pay any tax  /",sd," 
+Statement",,, sv
+B,{C or } you just buy one of these things  /,sd," 
+Statement",,, sv
+B,"{C and } [ it, + it, ] {F uh, } - /",%," 
+Statement",,, sv
+B,"maybe [ you, + you ] could probably devise them so it slowly closed off your tail pipe  /",sv," 
+Acknowledgment",,, sv
+B,"{C and, } {F uh, } the less you pollute the longer the devise lasts  /",sd," 
+Statement",,, sv
+B,{C and } if you pollute a lot then it closed off your tail pipe  /,sd," 
+Statement",,, sv
+B,{C and } you couldn't start your car anymore. /,sd," 
+Acknowledgment",,, sv
+A,"[ That's a, + that's an  ] interesting concept.  /",ba," 
+Statement",,, sv
+A,Is that your idea? /,qy," 
+Question",,, sv
+B,"Yeah,  /",ny," 
+Statement",,, sv
+B,"{C but, } {F uh, } {D you know, } it's, {F uh, } - /",%," 
+Statement",,, sv
+B,"I guess the difficulty would be [ to, + ] that somebody could obviously just take it right off the tail pipe again  /",sv," 
+Question",,, sv
+B,{C so } you probably would have to build it right into # the muffler or something. # /,sv," 
+Acknowledgment",,, sv
+A,"# {D Well } I was going to say, #  /",sd," 
+Statement",,, sv
+A,right.  /,aa," 
+Statement",,, sv
+A,"[ [ [ You could put it in, + you could, ] + you could, ] + it could ] be installed like a catalytic converter. /",sd," 
+Statement",,, sv
+B,Right. /,b," 
+Statement",,, sv
+A,{E I mean } I guess you could take those off too  /,sv," 
+Statement",,, sv
+A,"{C but, } -/",%," 
+Statement",,, sv
+B,"You could take ca-, - /",%," 
+Statement",,, sv
+B,{C but } mufflers would be a little more obvious if you took that off. /,sv," 
+Statement",,, sv
+A,"Yeah,  /",aa," 
+Statement",,, sv
+A,"if you can take a muffler off and only replace, - /",sd," 
+Acknowledgment",,, sv
+A,{D well } not unless it was built into every muffler. /,sd," 
+Acknowledgment",,, sv
+B,Right. /,b," 
+Acknowledgment",,, sv
+A,{C And } that's  ((   )) . -/,%," 
+Statement",,, sv
+B,"{C But } if you was talking about something which was more or less universal that, {F uh, } busses and any kind of vehicle,",sd," 
+Question",,, sv
+A,<throat_clearing>,x," 
+Statement",,, sv
+B,"had to pay a pollution tax, {F uh, } this would penalize the heavy polluters and not penalize the light polluters, /",+," 
+Acknowledgment",,, sv
+A,"[ That's a, + that's quite a ] concept.   /",ba," 
+Acknowledgment",,, sv
+A,"You should, {F uh, } pursue that I think, or patent it, <laughter> {D you know. } /",sv," 
+Statement",,, sv
+B,"<Laughter> Yeah,  /",aa," 
+Statement",,, sv
+B,"patent it,  /",sd^m," 
+Statement",,, sv
+B,that's a good idea. /,sv," 
+Statement",,, sv
+A,If you could come up with a device that's the thing. /,sv," 
+Statement",,, sv
+B,Right. /,b," 
+Statement",,, sv
+A,{C But } it shouldn't be too hard to do something like that.  /,sv," 
+Statement",,, sv
+A,"{C But }  [ that's a, + that's a  ] thought.  /",sd," 
+Acknowledgment",,, ^h
+A,"No, /",%," 
+Statement",,, sv
+B,Uh-huh. /,b," 
+Statement",,, sv
+A,you're right  /,sv," 
+Question",,, sv
+A,"{C and } that will solve, {F uh, } a lot of problems.  /",sv," 
+Statement",,, sv
+A,"I don't know [ if you, + {F uh, } if you ] approached the automobile industry if they would be too keen on installing something like that. /",sv," 
+Statement",,, sv
+B,Uh-huh. /,b^r," 
+Acknowledgment",,, sv
+A,"{F Uh, } {C but } {D you know } a proposal to, {F uh, } {F uh, } I guess the proper authorities, -/",sv," 
+Acknowledgment",,, sv
+B,Uh-huh. /,b," 
+Statement",,, sv
+A,"{D well } you might, {F uh, } generate some -- -/",sv," 
+Acknowledgment",,, sv
+B,"Yeah,  /",b," 
+Statement",,, sv
+B,the automobile regulatory agencies or something. /,bf," 
+Statement",,, sv
+A,"-- yeah,  /",ny," 
+Statement",,, sv
+A,you might generate some interest in it.  /,sv^e," 
+Statement",,, sv
+A,"{C But } [ that's, + that's  ] a good idea.  /",sv," 
+Acknowledgment",,, sv
+A,"Other than that I'm not sure [ what, + what  ] individuals can do other than like I said get involved through a group or an organization. /",sv," 
+Statement",,, sv
+B,Uh-huh. /,b," 
+Statement",,, sv

@@ -1,0 +1,41 @@
+tag,description
+o,"The ""O"" tag indicates an off-topic or unrelated remark in the dialogue."
+qw,"The ""qw"" (question) tag indicates that a speaker is asking for information or clarification within the dialogue."
+^h,"The dialogue act tag ""^h"" indicates a hesitation or filler, often used to signal uncertainty or the need for time to think before responding."
+sv,"The ""sv"" tag indicates a statement that conveys information, typically asserting or declaring a thought, opinion, or fact."
+qo,"The ""qo"" tag indicates a speaker posing a question to elicit information or opinions from the other participant(s) in the conversation."
+sd,"The ""sd"" tag typically denotes a speaker's statement that conveys a subjective opinion or perspective in a dialogue."
+b,"The tag 'B' indicates a statement or contribution made by Speaker B, often expressing opinions or providing information in the dialogue."
++,"The dialogue act tag '+' indicates a continuation or addition to a previous statement, often used to elaborate or provide further details."
+qy,"The ""qy"" tag indicates a speaker is asking a question for clarification or to gain more information."
+nn,"The ""nn"" tag indicates a non-verbal response or acknowledgment, often representing filler sounds or pauses in speech."
+sd^e,"The dialogue act tag 'sd^e' indicates a speaker expressing an evaluation or opinion, often introducing a personal stance or insight in the conversation."
+bk,"The tag ""bk"" indicates an acknowledgment or backchannel response, showing the listener's engagement or understanding without taking the turn to speak."
+%,"The dialogue act tag ""%"" indicates a marker for laughter or humor expressed in the conversation."
+bf,"The dialogue act tag ""BF"" indicates a backchannel feedback response, signaling active listening or acknowledgment without interruption."
+ny,The tag 'ny' typically indicates a statement expressing agreement or affirmation within the dialogue.
+ny^r,The tag 'ny^r' indicates a speaker expressing a response that includes acknowledgment or agreement.
+bh,"The ""bh"" tag indicates a backchannel response, showing the listener's engagement or acknowledgment during a conversation, often through brief affirmations."
+x,"The dialogue act tag 'x' does not appear in the provided dialogue, so there is no specific description available."
+ba,"The ""ba"" tag denotes a backchannel acknowledgment, indicating that the listener is engaged and following the conversation without interrupting the speaker."
+b^r,The dialogue act tag b^r indicates a request for clarification or confirmation from one speaker to another.
+aa,"The ""AA"" tag represents an acknowledgment or agreement in the conversation, often indicating understanding or acceptance of a prior statement."
+qy^d,"The dialogue act tag ""qy^d"" indicates a request for clarification or additional information about a previously mentioned topic."
+na,"The ""na"" tag indicates that the dialogue contains non-authoritative or ambiguous statements, often reflecting uncertainty or lack of definitive information."
+b^m,"The tag b^m indicates a backchannel marker, signifying the listener's engagement or acknowledgment during the speaker's turn without interrupting the flow of conversation."
+h,The dialogue act tag 'h' typically signifies a humorous or light-hearted utterance within a conversation.
+nd,The 'nd' tag indicates a speaker agreeing or expressing understanding with the previous speaker's statement.
+"""",It appears the tag is incomplete or missing. Please provide the correct dialogue act tag for a precise description.
+qh,A question to gather information or clarity from the other speaker.
+no,"The ""no"" dialogue act tag indicates a clear rejection or disagreement with a statement or suggestion made by another speaker."
+sd^m,The dialogue act tag 'sd^m' indicates a statement that adds more detail or provides clarification in the conversation.
+ad,"The ""ad"" tag indicates an advertisement or a promotional statement made during the dialogue."
+sv^e,"The dialogue act tag ""sv^e"" denotes a supportive expression that acknowledges and reinforces a point made by another speaker."
+ng,"The ""ng"" tag indicates that a speaker is expressing hesitation or uncertainty, often through pauses or incomplete thoughts."
+qy^g,"The tag ""qy^g"" typically indicates a speaker is asking a question to gather information or clarifications in a conversation."
+ba^r,"The tag ""ba^r"" indicates a backchannel response, typically used to show active listening or encourage the speaker to continue."
+^2,"The dialogue act tag refers to laughter, indicating humor or amusement within the conversation."
+aa^r,"The dialogue act tag ""aa^r"" typically denotes an acknowledgment or response where one speaker acknowledges the other’s statement or inquiry, often indicating understanding or agreement."
+sd^t,"The ""sd^t"" tag indicates a speaker's statement that provides a direct opinion or thought about a topic, often reflecting on the discussion."
+fc,The dialogue act tag 'FC' signifies a speaker's expression of agreement or confirmation in the conversation.
+ft,"The 'ft' tag indicates a speaker expressing a filled pause or hesitation, often marked by vocalizations like ""uh"" or ""um."""

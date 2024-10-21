@@ -1,0 +1,103 @@
+caller,text,act_tag,task1_pred,task2_pred,task3_pred,task4_pred
+B,Okay. /,o,Okay.,o,qw,sv
+A,Okay. /,b^m, Okay., o, b, o
+B,"{D Well } what do you think about the idea of, {F uh, } kids having to do public service work for a year?  /",qw, Question, qw, qy^d, qw
+B,"Do you think it's a <breathing>, -/",qy, Question, qw, qy, qy
+A,"{D Well, } [ I, + I  ] think it's a pretty good idea.  /",sv, Opinion, sv, ny, sd
+A,"I think they should either do that, [ or, + or ] afford some time to the military, [ or, + or  ] helping elderly people. /",sv, Opinion, sv, na, sd
+B,"Yes,  /",aa, Yes., sv, sd, nn
+B,"yes,  /",aa^r, Yes., sv, sv, sv
+B,"def-, -/",%, Yes., b, sd, sd
+A,"[ [ I, + I, ] + {D you know, } I ] think that we have a bunch of elderly folks in the country that could use some help  /",sv, Statement, b, sd, sd
+A,"{C and } I think that before we expend all our young talent overseas [ and, + and ] helping other countries we ought to perhaps give a little bit of our help to our own folks at home  /",sv, Statement, b, na, sv
+A,{C and } --,sv, Statement, b, sd, o
+B,That's true. /,aa, Acknowledgment, b, sd, sd^e
+A,-- I'm not sure that that's not a bad idea  /,+, Uncertainty, sf, sd, qw
+A,"[ {C and, } + {C or }  ] the military for a year or two,",sv, Suggestion, qh, sd^e, sd
+B,Yeah. /,b, Agreement, sv, sd, qy
+A,"wouldn't be bad for, - /",+, Uncertainty, sv, sv, sd
+A,I think it teaches kids how to grow.  /,sv, Opinion, o, qy, sd
+A,How about yourself? /,qo, Opinion, qy, b, qy
+B,"{F Uh, } I agree with you.  /",aa, Acknowledgment, na, nn, sd
+B,"{F Uh, } {F uh, } what I'm thinking about is back <breathing>, {D well, } when I was a kid, and much earlier than that, kids were kind of, [ i-, + i-, ] - /",sd, Agreement, qy, sd^m, qw
+B,"{D you know, } the parents kind of pushed them to join, {D like } the Boy Scouts <children> or Girl Scouts  /",sv, Narrative, qy, sd, sd
+B,"{C and } they did, [ [ do, + do ] + do ] a lot of public service activities,  /",sv, Narrative, sd, na, sd
+B,"{C but } these days they're not, {F uh, }  /",sv, Narrative, sd, sd, sd
+B,"[ par-, + parents ] aren't encouraging their kids to do things like that.  /",sv, Narrative, sv, sd, sv
+B,"{C Because } when I was in the Girl Scouts, we did a lot of public service things, because that's just part [ [ o-, + of, ] + of ] the scouting, and, {D you know. } -/",sd, Acknowledgment, n, sd, o
+A,"Yeah,  /",b, Acknowledgment, qh, sv, sd
+A,"[ I've, + I've, ] - /",%, Acknowledgment, v, qy, sd
+A,that's really great.  /,sv, Statement, ba, qy^d, sv
+A,"[ I, + I  ] really think that both the Boy Scouts and Girl Scouts is [ a excellent, + two excellent  ] organizations. /",sv, Statement, y, sd, sd
+B,They are  /,aa, Statement, ba, b, qh
+B,"{C but } parents, -/",%, Statement, ba, sd, qy^d
+A,"{D You know, } kids seem like when they get ten or twelve years old they fall out of that, /",sv, Acknowledgment, sv, sd, sd
+B,"Yeah,  /",aa, Uncertainty, sv, b, sv
+B,they do. /,aa, Agreement, sv, sv, sv
+A,"{C and } they don't follow it at all, {D you know. }  /",sv, Agreement, sv, sd, sd
+A,"There are very few Scouts go on,",sv, Agreement, sv, ny, sv
+B,"{F Oh, } no. /",aa, Confirmation, sv, sv, sd
+A,and become Eagle Scouts.  /,+, Acknowledgment, sv, sv^e, sd
+A,"[ {C And, } + {C and }  ] I don't know what the high rank is for the gals  /",sd, Acknowledgment, sd, sv, nw
+A,"{C but, } -/",%, Acknowledgment, bh, sd, o
+B,"[ I, +  I, ] {F uh, } - /",%, Statement, sv, sd^t, sv
+B,senior. /,sd, Agreement, v, sv, sv
+A,Oh.  /,b, Agreement, n, sd, sd
+A,"Senior,  /",b^m, Agreement, qy, sd, sv
+A,okay.  /,bk, Confirmation, qy, sd, qy
+A,"{C So, } there's not, {F uh, } -/",%, Confirmation, na, sv, sd
+B,"{F Oh, } they're just not, - /",%, Opinion, qy, sd^m, sv
+B,"once they get into junior high it just,",sv, Opinion, sd, sd, sv
+A,"Yeah,  /",b, Agreement, na, sd, sd
+A,"[ they, + they  ] lose interest. /",sv, Agreement, sv, na, sv
+B,not done anymore <children>. /,+, Agreement, qy, sd, sd
+A,"{C and then } when they [ young, + young  ] adults,",sv, Opinion, na, sd^d, sf
+B,Uh-huh. /,b, Opinion, sd, nv, sv
+A,there's even less interest there.  /,+, Statement, sv, sd, sd
+A,"They're more for, I g-, -/",sv, Statement, sd, sd, o
+B,Me <laughter>. /,^2, Statement, sd, sd, sd
+A,"[ Not, + not,  ] - /",%, Acknowledgment, sv, no, sv
+A,yeah. /,aa, Acknowledgment, na, sd, o
+B,"Grab,  /",sd, Summation, sv, qh, sd
+B,"grab,  /",sd, Agreement, na, sd, sd
+B,"grab,  /",sd, Opinion, sv, sd, sv
+B,walk out <laughter>. /,sd, Opinion, sd, qy^d, sv
+A,"Yeah,  /",aa, Opinion, sv, sv, sd
+A,you're absolutely right <laughter>. /,sv, Suggestion, o, sd, o
+B,Yeah  /,b, Awareness, sv, sd, sd
+B,<sniffing>.,x, Confirmation, v, sd, sv
+A,I think it's a really a good thing.  /,sv, Acknowledgment, na, no, sd
+A,"[ I, + I ] like to see, - /",sd, Acknowledgment, qy, sd, o
+A,"of course, there's, {D you know, } third world countries that can use all kind of help <laughter>. /",sv, Statement, na, o, aa
+B,"Yeah,  /",b, Acknowledgment, na, qy^g, sv
+B,"{C but } there's a lot that can be done right here in this country,",sv, Agreement, qy, sd, sv
+A,"{C But } I think,",sv, Opinion, na, sd, sd
+B,too. /,+, Opinion, sd^e, sv, qy
+A,we ought to start right here at home.  /,+, Summation, sd, sv^e, sv
+A,"I'm, {D you know, } -/",%, Agreement, qh, na, sd
+B,"Yeah,  /",b, Agreement, sd, sv, sv
+B,"{F uh, } [ I'm not, + I'm not  ] so sure that [ overseas  help, + helping overseas  ] would be such a hot idea [ for, + for, ] {F uh, } a lot of young [ k-, + people.  ] /",sv, Thank you., qy, sd, o
+A,"No,  /",aa, Farewell., sv^e, b, sd
+A,"[ it, + it,  ] -/",%,, qy, fc, sv
+B,"{C But, } since there is much that needs to be done here. -/",sv,, sv, b, sd
+A,"[ I think that, + {D yeah, } I think that ] we need to really address what we've done here  /",sv,, sd, na, qy^d
+A,"[ {C and, } + {C and then } ] perhaps even a six month tour overseas that gives them much broader outlook. /",sv,, sd, ad, o
+B,Uh-huh. /,b,, sv^e, fc, o
+A,"{D Well, } it's been really good.  /",sv,, v, bf, o
+A,"We talked about this for a few minutes,  /",sd,, qy^g, sv^m, o
+A,"{C and, } {F uh, } hopefully, we'll have other good topic maybe another call someday,  /",sd^t,, v, +,
+A,"{C but } [ I, + I  ] don't really have too much more to say on this topic, I guess. /",sd,, b, cv,
+B,"No,  /",b,, sd, fc,
+B,"[ I, + I  ] agree with you <laughter>. /",sd,, o, na,
+A,"[ [ It, + we, ] + I guess we ] both agree that it's a good thing,",sv,, sd, b,
+B,Yeah. /,b,, aa, sd^t,
+A,that they should do sometime. /,+,, sd^m, fc,
+B,Okay. /,aa,, sd^m, cv,
+A,"{D Well } you take care,  /",fc,, a, fc,
+A,"[ {C and, } + {C and, }  ]",fc,, sd^m, ad,
+B,"You, too. /",fc,, aa^r, qy^d,
+A,enjoy the day. /,+,, sv, sv,
+B,"You, too. /",fc,, a, +,
+A,"Thank you, ma'am.  /",ft,, sd, fc,
+A,Bye-bye. /,fc,, qh, qy,
+B,Bye-bye. /,fc,, o, +,
